@@ -1,1 +1,3 @@
 # Library-Management-System
+This project helps library staff to maintain book records and avoid the paper work. The library admin can track the new books arrival and issued book details. This also provides information about the current book inventory in the library  along with the expected issued books return dates. 
+This help library admin to categorically organise the books and also this helps library subscribers to search and get the book details on their online portal. We can enhance this project in mobile application also and this will save human efforts and time to search / maintain the library books.
